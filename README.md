@@ -7,3 +7,5 @@ The second script scan directories in order to find markdowm files (.md) and tra
 
 The script use a Pandoc as the converter, as a default setting the script output clean semantic html without id in the various header level \<h1>, \<h2> etc.
 
+##Instruction d'installation
+
