@@ -9,3 +9,4 @@ The script use a Pandoc as the converter, as a default setting the script output
 
 ##Instruction d'installation
 
+Tout d'abord installé Pandoc
