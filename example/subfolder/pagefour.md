@@ -1,6 +1,12 @@
+---
+title:  'Example Page FOUR -4-'
+author:  'Julien Bergeron'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+---
+
 ## My page FOUR -4- 
 
-**Description :** «Page One» example of magick-markdown-html.
+**Description :** «Page Four» example of magick-markdown-html.
 
 ### Work to do on page FOUR -4-
 

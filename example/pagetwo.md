@@ -1,6 +1,12 @@
+---
+title:  'Example Page TWO -2-'
+author:  'Julien Bergeron'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+---
+
 ## My page TWO -2-
 
-**Description :** «Page One» example of magick-markdown-html.
+**Description :** «Page Two» example of magick-markdown-html.
 
 ### Work to do on page TWO -2-
 

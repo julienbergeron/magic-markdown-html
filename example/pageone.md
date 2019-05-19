@@ -1,3 +1,9 @@
+---
+title:  'Example Page ONE -1-'
+author:  'Julien Bergeron'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+---
+
 ## My page ONE -1- 
 
 **Description :** «Page One» example of magick-markdown-html.

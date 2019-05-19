@@ -1,6 +1,12 @@
+---
+title:  'Example Page TREE -3-'
+author:  'Julien Bergeron'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+---
+
 ## My page TREE -3-
 
-**Description :** «Page One» example of magick-markdown-html.
+**Description :** «Page tree» example of magick-markdown-html.
 
 ### Work to do on page TREE -3-
 
