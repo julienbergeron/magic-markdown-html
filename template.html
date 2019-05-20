@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$">
+$endfor$
+$if(description)$
+  <meta name="description" content="$description$">
+$endif$
+  <title>$pagetitle$</title>
+$if(quotes)$
+      q { quotes: "“" "”" "‘" "’"; }
+$endif$
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+<p><a href="JavaScript:history.back()">&lt;&lt;&lt;&lt;BACK</a></p>
+$body$
+<footer><p>Julien Bergeron NoProblemo.ca &copy;</p></footer>
+</main>
+</body>
+</html>
