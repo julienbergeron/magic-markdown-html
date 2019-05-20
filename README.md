@@ -5,7 +5,7 @@ The first shell script check for file change of a markdown (.md) file and transf
 
 The second script scan directories in order to find markdowm files (.md) and transform all of them in html files.
 
-The script use a Pandoc as the converter, as a default setting the script output clean semantic html without id in the various header level \<h1>, \<h2> etc.
+The script use Pandoc as the converter, as a default setting it output a clean semantic html without id in the various header level \<h1>, \<h2> etc.
 
 ## Pandoc Intallation
 
@@ -56,4 +56,4 @@ example
 ```
 **Note 1 :&nbsp;** The «style.css» file should be an absolute url so the html files in «subfolder» will have the right style sheet.
 
-**Note 2 :&nbsp;** The «style.css» file should be an absolute url so the .css linked to the html files will work on all folder files in «subfolder».
+**Note 2 :&nbsp;** The «style.css» file should be an absolute url so the .css linked to the html files will work on all folder and files in «subfolder».
