@@ -1,0 +1,1 @@
+The path to the style sheet in the subfolder «subfolder» is wrong. In order to have the style sheet working in all subdirectory, you must use an absolute url to a style sheet on a server on internet like this :  https://example.com/style.css
