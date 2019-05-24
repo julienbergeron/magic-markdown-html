@@ -60,9 +60,9 @@ example
     ├── pagetree.md
     └── pagetree.html
 ```
-**Note 1 :&nbsp;** The «style.css» file should be an absolute url so the html files in «subfolder» will have the right style sheet, no need to render folder by folder with a diferent path for the css file in the template.
+**Note 1 :** The «style.css» file should be an absolute url so the html files in «subfolder» will have the right style sheet, no need to render folder by folder with a diferent path for the css file in the template.
 
-**Note 2 :&nbsp;** The «style.css» file path should be an absolute url so the .css of an external style sheet like this « https://example.com/style.css » linked to the html files will work on all folder and files in «subfolder».
+**Note 2 :** The «style.css» file path should be an absolute url so the .css of an external style sheet like this « https://example.com/style.css » linked to the html files will work on all folder and files in «subfolder».
 ## Usage
 When fswatch and Pandoc are installed, in order to run the script correctly you have to change the path (indicated with the word CHANGE_PATH... in the script) accordingly to the absolute path in your system.
 
